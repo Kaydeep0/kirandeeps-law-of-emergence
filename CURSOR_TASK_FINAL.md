@@ -259,7 +259,32 @@ This uncertainty propagates to μ = 34 ± 2
 
 ---
 
-### TASK 8: Update Backtest Count and Methodology
+### TASK 8: ELEVATE THE PI TEST (Critical)
+
+**The Pi Test is your STRONGEST evidence. It should be prominent.**
+
+**Why it's the best:**
+- 2,275 years of continuous records (no selection bias possible)
+- 4/4 method transitions predicted correctly
+- Objective: digits are digits, no interpretation
+- Bellard beat supercomputers with a desktop (E > resources)
+- Zero exceptions in the entire historical record
+
+**Files:** Create standalone PI_TEST.md, reference prominently in README and EVIDENCE
+
+**Structure:**
+1. Why Pi is the perfect test
+2. Complete historical data (Archimedes → 2025)
+3. E calculations for each era
+4. The four transitions with E ratios
+5. The Bellard result (efficiency beats resources)
+6. The time bridge (receiving is 10²⁵× more efficient than creating)
+
+**This is the evidence that's hardest to dismiss. Lead with it.**
+
+---
+
+### TASK 9: Update Backtest Count and Methodology
 
 **Files:** EVIDENCE.md
 
@@ -309,23 +334,26 @@ Mitigation:
 
 ---
 
-### TASK 10: Create Final Document Structure
+### TASK 11: Create Final Document Structure
 
 **Files:** Create this structure
 
 ```
 kirandeeps-law-of-emergence/
-├── README.md                 # Overview, quick start
+├── README.md                 # Overview, quick start, LEAD WITH PI TEST
 ├── SUMMARY.md               # One-page summary
 ├── CORE_LAW.md              # The equation, definitions, falsification
+├── PI_TEST.md               # THE CROWN JEWEL - 2,275 years of evidence
 ├── CONSTANTS.md             # μ, derived physics (with uncertainties)
-├── EVIDENCE.md              # Backtests, pi test, cosmological (with methodology)
+├── EVIDENCE.md              # Other backtests, cosmological (with methodology)
 ├── HYPOTHESES.md            # Clearly labeled speculation
 ├── STATUS.md                # What's proven vs. hypothesized
 ├── FORMAL_DEFINITIONS.md    # Mathematical foundations
 ├── METHODS_APPENDIX.md      # Reproducible calculations
 └── CITATION.md              # How to cite, DOI
 ```
+
+**Pi Test gets its own file because it's the strongest evidence.**
 
 ---
 
@@ -341,8 +369,8 @@ Before committing to GitHub:
 - [ ] Hypotheses clearly labeled
 - [ ] E_human range acknowledged
 - [ ] Selection bias acknowledged in backtests
+- [ ] **PI TEST prominently featured (standalone doc, referenced in README)**
 - [ ] NO private content (concentration equation, variables, extraction analysis)
-- [ ] Pi test prominently featured (strongest evidence)
 - [ ] Cosmological predictions with post-hoc caveat
 - [ ] Contact info and DOI correct
 

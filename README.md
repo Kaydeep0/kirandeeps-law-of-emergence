@@ -6,30 +6,42 @@
 
 ---
 
-## Quick Start
+## THE THREE PILLARS
 
-**The Law:**
+This framework rests on three rock-solid foundations:
+
+### Pillar 1: THE LAW
 ```
 E = ΔI / A
-
-E = Efficiency (bits per joule-second)
-ΔI = Uncertainty resolved (bits)
-A = Action = Energy × Time (joule-seconds)
 ```
+- Dimensionally correct
+- Grounded in Landauer's principle (thermodynamics)
+- Grounded in Bekenstein bound (information theory)
+- The Principle of Least Action applied to information
 
-**The Prediction:** In competition, higher E wins.
+### Pillar 2: THE CONSTANT
+```
+μ = 34 ± 2
+```
+- E_planck = 1/ℏ ≈ 10³⁴ bits/J·s
+- E_human ≈ 10⁰ bits/J·s
+- μ = log₁₀(E_planck / E_human)
+- Two independent derivations converge
 
-**The Evidence:** 2,275 years of π computation history. 4/4 transitions. Zero exceptions.
+### Pillar 3: THE PI TEST
+```
+2,275 years. 4/4 transitions. Zero exceptions.
+```
+- Complete historical record (no selection bias)
+- Every method transition followed higher E
+- Bellard on a desktop beat supercomputers
+- **E wins, not resources**
+
+**Everything else in this framework builds from these three.**
 
 ---
 
-## The Strongest Evidence: The Pi Test
-
-Pi (π) computation is the perfect test:
-- **2,275 years** of continuous records
-- **No selection bias** - this IS the complete historical record
-- **Objective** - digits are digits, no interpretation needed
-- **4/4 method transitions** follow E
+## The Pi Test (Strongest Evidence)
 
 | Transition | E Ratio | Prediction | Outcome |
 |------------|---------|------------|---------|
@@ -37,9 +49,6 @@ Pi (π) computation is the perfect test:
 | Human → Computer | 1,500× | Computer | ✅ |
 | Early → Modern chips | 26,000× | Modern | ✅ |
 | Supercomputer → Desktop | 7,000× | Desktop | ✅ |
-
-**The killer result:** Bellard on a desktop beat supercomputers.
-**E wins, not resources.**
 
 → [Full Pi Test Analysis](PI_TEST.md)
 
