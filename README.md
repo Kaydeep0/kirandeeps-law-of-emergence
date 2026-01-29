@@ -76,15 +76,13 @@ Where:
 ## Project Structure
 
 ```
-emergence-equation/
+kirandeeps-law-of-emergence/
+├── README.md                   # Project overview
 ├── RELEASE/                    # Ready-to-share documents
 │   ├── KIRANDEEPS_LAW_OF_EMERGENCE.md
 │   └── PROOF_KIRANDEEPS_LAW_OF_EMERGENCE.md
-├── EVIDENCE/                   # Tests and validation
-│   └── THE_PI_TEST.md
-├── APPLICATIONS/               # Applications of the law
-│   └── n-plus-1/              # Concentration equation research
-└── [additional folders]
+└── EVIDENCE/                   # Tests and validation
+    └── THE_PI_TEST.md
 ```
 
 ---
