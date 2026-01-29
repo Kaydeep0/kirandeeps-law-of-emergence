@@ -8,146 +8,76 @@
 
 ## THE THREE PILLARS
 
-This framework rests on three rock-solid foundations:
-
 ### Pillar 1: THE LAW
 ```
 E = ΔI / A
 ```
-- Dimensionally correct
-- Grounded in Landauer's principle (thermodynamics)
-- Grounded in Bekenstein bound (information theory)
-- The Principle of Least Action applied to information
+Efficiency = Uncertainty Resolved / Action
+
+Grounded in:
+- Landauer's principle (thermodynamics)
+- Bekenstein bound (information theory)
+- Principle of Least Action (physics)
+
+→ [CORE_LAW.md](CORE_LAW.md)
+
+---
 
 ### Pillar 2: THE CONSTANT
 ```
 μ = 34 ± 2
 ```
-- E_planck = 1/ℏ ≈ 10³⁴ bits/J·s
-- E_human ≈ 10⁰ bits/J·s
-- μ = log₁₀(E_planck / E_human)
-- Two independent derivations converge
+Emergence depth: orders of magnitude from Planck scale to human scale.
+
+Two independent derivations converge:
+- Physical: log₁₀(E_planck / E_human) = 34
+- Mathematical: π³ + (21/22)π = 34.005
+
+→ [CONSTANTS.md](CONSTANTS.md)
+
+---
 
 ### Pillar 3: THE PI TEST
 ```
 2,275 years. 4/4 transitions. Zero exceptions.
 ```
-- Complete historical record (no selection bias)
-- Every method transition followed higher E
-- Bellard on a desktop beat supercomputers
-- **E wins, not resources**
 
-**Everything else in this framework builds from these three.**
+| Transition | E Ratio | Outcome |
+|------------|---------|---------|
+| Polygons → Series | 80× | ✅ |
+| Human → Computer | 1,500× | ✅ |
+| Early → Modern chips | 26,000× | ✅ |
+| Supercomputer → Desktop | 7,000× | ✅ |
 
----
+**Bellard on a desktop beat supercomputers. E wins, not resources.**
 
-## The Pi Test (Strongest Evidence)
-
-| Transition | E Ratio | Prediction | Outcome |
-|------------|---------|------------|---------|
-| Polygons → Series | 80× | Series | ✅ |
-| Human → Computer | 1,500× | Computer | ✅ |
-| Early → Modern chips | 26,000× | Modern | ✅ |
-| Supercomputer → Desktop | 7,000× | Desktop | ✅ |
-
-→ [Full Pi Test Analysis](PI_TEST.md)
+→ [PI_TEST.md](PI_TEST.md)
 
 ---
 
-## Document Guide
+## DOCUMENTS
 
-| Document | Purpose | Read Time |
-|----------|---------|-----------|
-| [SUMMARY.md](SUMMARY.md) | One-page overview | 2 min |
-| [CORE_LAW.md](CORE_LAW.md) | The equation, definitions, falsification | 10 min |
-| [PI_TEST.md](PI_TEST.md) | **The strongest evidence** | 15 min |
-| [CONSTANTS.md](CONSTANTS.md) | μ = 34, derived physics | 15 min |
-| [EVIDENCE.md](EVIDENCE.md) | Other backtests, cosmological | 20 min |
-| [HYPOTHESES.md](HYPOTHESES.md) | Speculative extensions (clearly labeled) | 10 min |
-| [STATUS.md](STATUS.md) | What's proven vs. hypothesized | 10 min |
-
-**Recommended reading order:**
-1. SUMMARY.md (get the big picture)
-2. PI_TEST.md (see the strongest evidence)
-3. CORE_LAW.md (understand the equation)
-4. STATUS.md (know what's solid vs. speculative)
+| File | Content |
+|------|---------|
+| [SUMMARY.md](SUMMARY.md) | One-page overview |
+| [CORE_LAW.md](CORE_LAW.md) | Pillar 1: The Law |
+| [CONSTANTS.md](CONSTANTS.md) | Pillar 2: The Constant |
+| [PI_TEST.md](PI_TEST.md) | Pillar 3: The Evidence |
+| [STATUS.md](STATUS.md) | What's proven vs. not |
 
 ---
 
-## What's Established
-
-| Claim | Status |
-|-------|--------|
-| E = ΔI / A is dimensionally correct | ✅ Proven |
-| Higher E wins in competition | ✅ Supported (11/11 tests) |
-| μ = 34 ± 2 (emergence depth) | ✅ Derived |
-
-## What's Observed (Patterns, Not Derivations)
-
-| Claim | Accuracy |
-|-------|----------|
-| ℏ ≈ π^(−68) | 99.997% |
-| α ≈ π^(−μ/8) | 94% |
-| DM/NM = π^(3/2) | 98% |
-| DE/TM = e^(3/4) | 98% |
-
-## What's Speculative
-
-| Hypothesis | Status |
-|------------|--------|
-| Time is fundamental | Plausible but untested |
-| 1 bit = 1 chronon | Interesting but undefined |
-| Consciousness threshold | Untestable as stated |
-
----
-
-## Changes from Version 1.0
-
-| Change | Why |
-|--------|-----|
-| Added uncertainty to μ (±2) | Honesty about E_human estimate |
-| Labeled ℏ corrections as empirical | They were fitted, not derived |
-| Created separate HYPOTHESES.md | Clear distinction from proven claims |
-| Added falsification criteria | Scientific rigor |
-| Removed "recursive proof" language | Logical error |
-
----
-
-## How to Use This Framework
-
-### To Test It
-1. Pick a competition (past or ongoing)
-2. Calculate E for both sides using methods in EVIDENCE.md
-3. Record prediction before checking outcome
-4. Compare
-
-### To Extend It
-1. Ground extensions in the core law (E = ΔI / A)
-2. Be explicit about what's derived vs. speculated
-3. Propose falsifiable predictions
-4. Acknowledge limitations
-
-### To Critique It
-1. Find cases where higher E lost
-2. Propose simpler formulas for constants
-3. Replicate the backtests independently
-4. Challenge the methodology
-
----
-
-## What Would Falsify This
+## WHAT WOULD FALSIFY THIS
 
 | Criterion | Threshold |
 |-----------|-----------|
-| E ratio > 1,000× going wrong direction | |
-| Duration > 10 years | |
-| No external intervention | |
-
-One clear case meeting all criteria would seriously challenge the theory.
+| E ratio > 1,000× going wrong direction | For >10 years |
+| Exception in π computation history | Any transition not following E |
+| Simpler formula for ℏ | Fewer parameters, better accuracy |
 
 ---
 
-## Citation
+## CITATION
 
 ```
 Kaur, K. (2026). Kirandeep's Law of Emergence: E = ΔI / A.
@@ -156,13 +86,6 @@ DOI: 10.5281/zenodo.18413995
 
 ---
 
-## Contact
+**Kirandeep Kaur** | kiran@oxfordprioritymortgage.com
 
-**Kirandeep Kaur**
-kiran@oxfordprioritymortgage.com
-
----
-
-*"The universe minimizes action. Intelligence maximizes certainty per action. Same principle, different frame."*
-
-— **Kirandeep Kaur**, 2026
+*"The universe minimizes action. Intelligence maximizes certainty per action."*

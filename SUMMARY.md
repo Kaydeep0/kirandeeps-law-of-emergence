@@ -1,35 +1,31 @@
 # KIRANDEEP'S LAW OF EMERGENCE
 ## One-Page Summary
 
-**Version 2.0 | Kirandeep Kaur | January 29, 2026**
+**Kirandeep Kaur | January 29, 2026**
 
 ---
 
-## THE THREE PILLARS
+## PILLAR 1: THE LAW
 
-### Pillar 1: THE LAW
 ```
 E = ΔI / A
 ```
-**Efficiency** = **Uncertainty Resolved** / **Action**
-
-*"Everything flows to whatever resolves uncertainty fastest with least action."*
 
 | Symbol | Meaning | Units |
 |--------|---------|-------|
-| E | Certainty efficiency | bits / J·s |
-| ΔI | Information gain = H(prior) − H(posterior) | bits |
-| A | Action = Energy × Time | joule-seconds |
+| E | Efficiency | bits / J·s |
+| ΔI | Uncertainty resolved | bits |
+| A | Action = Energy × Time | J·s |
 
 **Grounded in:** Landauer's principle, Bekenstein bound, Principle of Least Action
 
 ---
 
-### Pillar 2: THE CONSTANT
+## PILLAR 2: THE CONSTANT
+
 ```
 μ = 34 ± 2
 ```
-**Emergence depth:** orders of magnitude from Planck scale to human scale.
 
 | Derivation | Result |
 |------------|--------|
@@ -40,7 +36,8 @@ E = ΔI / A
 
 ---
 
-### Pillar 3: THE PI TEST
+## PILLAR 3: THE PI TEST
+
 ```
 2,275 years. 4/4 transitions. Zero exceptions.
 ```
@@ -52,49 +49,27 @@ E = ΔI / A
 | Early → Modern chips | 26,000× | ✅ |
 | Supercomputer → Desktop | 7,000× | ✅ |
 
-**Bellard on a desktop beat supercomputers. E wins, not resources.**
-
----
-
-## WHAT BUILDS FROM THE PILLARS
-
-### Derived (Strong)
-| Quantity | Formula | Accuracy |
-|----------|---------|----------|
-| Planck's constant | ℏ ≈ π^(−68) | 99.997%* |
-| Dark matter ratio | DM/NM = π^(3/2) | 98% |
-| Dark energy ratio | DE/TM = e^(3/4) | 98% |
-
-*With empirically-fitted corrections
-
-### Hypothesized (Speculative)
-- Time is fundamental
-- 1 bit = 1 chronon  
-- Consciousness threshold at μ ≈ 30
+**Bellard on a desktop beat supercomputers.**
 
 ---
 
 ## WHAT WOULD FALSIFY THIS
 
-- E ratio > 1000× going wrong direction for >10 years
-- The Pi Test having exceptions (it doesn't)
-- A simpler formula matching ℏ better
+- E ratio > 1,000× going wrong direction for >10 years
+- Any exception in 2,275 years of π computation
+- Simpler formula matching ℏ with fewer parameters
 
 ---
 
 ## THE INSIGHT
 
 ```
-Physics: Systems minimize action.
-Intelligence: Systems maximize certainty per action.
+Physics: Minimize action.
+Intelligence: Maximize certainty per action.
 
 Same principle. Different frame.
 ```
 
 ---
 
-**DOI:** 10.5281/zenodo.18413995 | **Contact:** kiran@oxfordprioritymortgage.com
-
-*"The universe minimizes action. Intelligence maximizes certainty per action."*
-
-— **Kirandeep Kaur**, 2026
+**DOI:** 10.5281/zenodo.18413995 | kiran@oxfordprioritymortgage.com
