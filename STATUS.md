@@ -55,8 +55,6 @@ The following ideas were explored during development but are not included becaus
 
 These may be true. They may be interesting. But they are speculation, and speculation dilutes the pillars.
 
-**If you want to speculate, you can. We don't do it for you.**
-
 ---
 
 ## WHAT WOULD FALSIFY THIS
