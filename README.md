@@ -171,3 +171,15 @@ Attribution: Kirandeep Kaur, 2026
 — **Kirandeep Kaur**, 2026
 
 **Contact: kiran@oxfordprioritymortgage.com**
+
+---
+
+## Citation
+
+If you use this work, please cite:
+```
+Kaur, K. (2026). Kirandeep's Law of Emergence: E = ΔCertainty / Action. 
+Zenodo. https://doi.org/10.5281/zenodo.18413995
+```
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18413995.svg)](https://doi.org/10.5281/zenodo.18413995)
