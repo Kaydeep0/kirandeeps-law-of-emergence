@@ -19,7 +19,29 @@ A = Action = Energy × Time (joule-seconds)
 
 **The Prediction:** In competition, higher E wins.
 
-**The Evidence:** 11/11 tests passed (5 historical, 4 pi computation, 2 cosmological)
+**The Evidence:** 2,275 years of π computation history. 4/4 transitions. Zero exceptions.
+
+---
+
+## The Strongest Evidence: The Pi Test
+
+Pi (π) computation is the perfect test:
+- **2,275 years** of continuous records
+- **No selection bias** - this IS the complete historical record
+- **Objective** - digits are digits, no interpretation needed
+- **4/4 method transitions** follow E
+
+| Transition | E Ratio | Prediction | Outcome |
+|------------|---------|------------|---------|
+| Polygons → Series | 80× | Series | ✅ |
+| Human → Computer | 1,500× | Computer | ✅ |
+| Early → Modern chips | 26,000× | Modern | ✅ |
+| Supercomputer → Desktop | 7,000× | Desktop | ✅ |
+
+**The killer result:** Bellard on a desktop beat supercomputers.
+**E wins, not resources.**
+
+→ [Full Pi Test Analysis](PI_TEST.md)
 
 ---
 
@@ -29,15 +51,16 @@ A = Action = Energy × Time (joule-seconds)
 |----------|---------|-----------|
 | [SUMMARY.md](SUMMARY.md) | One-page overview | 2 min |
 | [CORE_LAW.md](CORE_LAW.md) | The equation, definitions, falsification | 10 min |
+| [PI_TEST.md](PI_TEST.md) | **The strongest evidence** | 15 min |
 | [CONSTANTS.md](CONSTANTS.md) | μ = 34, derived physics | 15 min |
-| [EVIDENCE.md](EVIDENCE.md) | Backtests, methodology, limitations | 20 min |
+| [EVIDENCE.md](EVIDENCE.md) | Other backtests, cosmological | 20 min |
 | [HYPOTHESES.md](HYPOTHESES.md) | Speculative extensions (clearly labeled) | 10 min |
 | [STATUS.md](STATUS.md) | What's proven vs. hypothesized | 10 min |
 
 **Recommended reading order:**
 1. SUMMARY.md (get the big picture)
-2. CORE_LAW.md (understand the equation)
-3. EVIDENCE.md (see the support)
+2. PI_TEST.md (see the strongest evidence)
+3. CORE_LAW.md (understand the equation)
 4. STATUS.md (know what's solid vs. speculative)
 
 ---
