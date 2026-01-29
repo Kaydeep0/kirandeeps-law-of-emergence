@@ -116,7 +116,7 @@ E_bellard / E_chudnovsky ≈ 7,000×
 **Prediction:** Higher E wins, not more resources.
 **Outcome:** Bellard on a desktop beat supercomputers. ✅
 
-**This is the killer result. E wins, not resources.**
+** E wins, not resources.**
 
 ---
 
