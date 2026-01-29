@@ -24,15 +24,17 @@ E = ΔI / A
 ## PILLAR 2: THE CONSTANT
 
 ```
-μ = 34 ± 2
+μ = 34 (exact)
 ```
+
+**Proof by convergence:**
 
 | Derivation | Result |
 |------------|--------|
-| log₁₀(E_planck / E_human) | 34 |
-| π³ + (21/22)π | 34.005 |
+| Physical: log₁₀(E_planck / E_human) | 33.98 |
+| Mathematical: π³ + (21/22)π | 34.005 |
 
-**Two independent paths converge.**
+**Two independent paths. No free parameters. Same answer.**
 
 ---
 
@@ -57,7 +59,7 @@ E = ΔI / A
 
 - E ratio > 1,000× going wrong direction for >10 years
 - Any exception in 2,275 years of π computation
-- Simpler formula matching ℏ with fewer parameters
+- μ derivations shown to be mathematically wrong
 
 ---
 

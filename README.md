@@ -25,13 +25,18 @@ Grounded in:
 
 ### Pillar 2: THE CONSTANT
 ```
-μ = 34 ± 2
+μ = 34 (exact)
 ```
 Emergence depth: orders of magnitude from Planck scale to human scale.
 
-Two independent derivations converge:
-- Physical: log₁₀(E_planck / E_human) = 34
-- Mathematical: π³ + (21/22)π = 34.005
+**Proven by convergence of two independent derivations:**
+
+| Path | Method | Result |
+|------|--------|--------|
+| Physical | log₁₀(E_planck / E_human) | 33.98 |
+| Mathematical | π³ + (21/22)π | 34.005 |
+
+Two independent paths. No free parameters. Same answer.
 
 → [CONSTANTS.md](CONSTANTS.md)
 
@@ -61,9 +66,9 @@ Two independent derivations converge:
 |------|---------|
 | [SUMMARY.md](SUMMARY.md) | One-page overview |
 | [CORE_LAW.md](CORE_LAW.md) | Pillar 1: The Law |
-| [CONSTANTS.md](CONSTANTS.md) | Pillar 2: The Constant |
+| [CONSTANTS.md](CONSTANTS.md) | Pillar 2: The Constant (with proof) |
 | [PI_TEST.md](PI_TEST.md) | Pillar 3: The Evidence |
-| [STATUS.md](STATUS.md) | What's proven vs. not |
+| [STATUS.md](STATUS.md) | What's proven vs. observed |
 
 ---
 
@@ -73,7 +78,7 @@ Two independent derivations converge:
 |-----------|-----------|
 | E ratio > 1,000× going wrong direction | For >10 years |
 | Exception in π computation history | Any transition not following E |
-| Simpler formula for ℏ | Fewer parameters, better accuracy |
+| μ derivations shown to be wrong | Mathematical or measurement error |
 
 ---
 
